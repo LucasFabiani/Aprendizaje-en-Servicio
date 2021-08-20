@@ -5,6 +5,7 @@ PAGINA: https://lukypaint.github.io/Aprendisaje-en-Servicio/
 
 
 #PASOS PARA AGILIZAR EL PROCESO:
+
 1-Instalarse git https://git-scm.com/download/win
 
 2-Ver un tutorial https://www.youtube.com/watch?v=hWglK8nWh60
@@ -21,6 +22,7 @@ PAGINA: https://lukypaint.github.io/Aprendisaje-en-Servicio/
 Antes de cambiar algo en la rama principal hay que decidirlo en grupo ;)
 
 #COMANDOS:
+
 clone <url del proyecto>: clona el repositorio
   
 pull: actualizar carpeta
