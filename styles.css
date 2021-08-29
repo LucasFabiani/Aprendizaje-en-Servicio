@@ -3,3 +3,6 @@
 @import url('css/aside.css');
 @import url('css/footer.css');
 
+nav {
+  background-color: green;
+}
