@@ -1,0 +1,9 @@
+@import url('css/navbar.css');
+@import url('css/main.css');
+@import url('css/aside.css');
+@import url('css/footer.css');
+
+nav {
+  background-color: black;
+  margin: 20px;
+}
