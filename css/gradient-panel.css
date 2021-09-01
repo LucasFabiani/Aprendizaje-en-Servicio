@@ -2,8 +2,9 @@
 .gd-panel {
 	display: block;
 	height: 30rem;
-	background-image: radial-gradient(circle at center, #589f2888, #28af9688), url('../img/bg/arbol.jpeg');
+	background-image: radial-gradient(circle at center, #589f2888, #28af9688), url('../img/bg/arbol.jpg');
 	background-repeat: no-repeat;
 	background-position: baseline;
+	background-attachment: fixed;
 	background-size: cover;
 }
