@@ -9,10 +9,10 @@ header {
 
 nav {
 	width: 100%;
-	padding: 1.25rem;
+	padding: 1rem;
 	background-color: lightgreen;
-	font-size: 1.75rem;
-	font-weight: 800;
+	font-size: 1rem;
+	font-weight: 600;
 }
 
 html{
@@ -30,62 +30,4 @@ main{
 
 footer{
 	background-color: #451012;
-}
-
-.link-list {
-	display: flex;
-	padding: 1.25rem;
-	align-content: space-between;
-	justify-content: center;
-	align-items: center;
-}
-
-.link-item {
-	list-style: none;
-	padding: 0.75rem;
-	color: white;
-}
-
-.link-item a {
-	text-align: center;
-	text-decoration: none;
-	color: white;
-}
-
-
-#copyright {
-	background-color: #99141B;
-	padding: 1rem;
-}
-
-#copyright p {
-	text-align: center;
-	color: white;
-}
-
-#copyright span img {
-	width: 4rem;
-	background-position: center;
-	margin: 1rem;
-}
-
-#copyright span {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-}
-
-@media only screen and (max-width: 700px){
-	main {
-		padding: 1rem;
-		width: 100%;
-	}
-	.link-list {
-		display: block;
-	}
-
-	.link-item {
-		display: block;
-		
-	}
 }
